@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shuvajitga84413" target="blank"><img src="https://img.shields.io/twitter/follow/shuvajitga84413?logo=twitter&style=for-the-badge" alt="shuvajitga84413" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **Python Desktop Application**
 
 - 👨‍💻 All of my projects are available at [https://shuvajitg.github.io/shuvajit.github.io/](https://shuvajitg.github.io/shuvajit.github.io/)
 
